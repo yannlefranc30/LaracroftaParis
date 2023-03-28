@@ -1,0 +1,22 @@
+body{
+ background-image: url("https://img.freepik.com/photos-premium/celebre-tour-eiffel-au-centre-ville-paris-france_137125-744.jpg");
+ background-repeat: no-repeat;
+ background-size: 1900px;
+
+}
+
+img {
+    width: 123px;
+    margin-left: 900px;
+    margin-top: 405px;
+    border: groove;
+    border-radius: 25px;
+}
+p {
+    color: #dfef0a;
+    margin-top: 145px;
+    margin-left: 700px;
+    -webkit-text-stroke: thick;
+    text-shadow: yellow;
+    font-size: 100px;
+}
